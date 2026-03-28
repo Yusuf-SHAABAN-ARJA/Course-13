@@ -1,8 +1,6 @@
 # Data Structures — Course 13 🗂️
 
-8 C++ projects implementing core data structures from scratch, built to apply the concepts learned in Dr. Mohammad Abu-Hadhoud's Data Structures Level 1 course on [Programming Advices](https://www.programmingadvices.com).
-
-Each project builds on the previous one — the structures are designed to work together through inheritance and composition, rather than being isolated exercises.
+8 C++ projects built to apply Data Structures concepts learned in Course 12, developed through Dr. Mohammad Abu-Hadhoud's Algorithms & Problem Solving Level 5 (Course 13) on Programming Advices.
 
 ---
 
